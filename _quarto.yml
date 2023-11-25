@@ -6,11 +6,11 @@ execute:
   echo: true
 
 book:
-  title: "YOUR PROJECT TITLE"
+  title: "TBD"
   author:
-    - AUTHOR1 (UNI1)
-    - AUTHOR2 (UNI2)
-  repo-url: https://github.com/YOUR_GITHUB_ACCOUNT/REPO_NAME
+    - Gautam Dhall (gd2665)
+    - Ishita Pundir (ip2441)
+  repo-url: https://github.com/Ishita2502/EDAVfinalproject2023
   date: today
   page-footer:
     right: |
